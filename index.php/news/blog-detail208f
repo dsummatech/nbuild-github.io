@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-gb">
+	<title type="text">Blog Detail</title>
+	<subtitle type="text"></subtitle>
+	<link rel="alternate" type="text/html" href="https://builty.payo-themes.com"/>
+	<id>https://builty.payo-themes.com/index.php/news/blog-detail</id>
+	<updated>2023-04-04T21:37:39+00:00</updated>
+	<author>
+		<name>Builty - Industrial and Building Construction Joomla 4 Template</name>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="https://builty.payo-themes.com/index.php/news/blog-detail?view=category&amp;id=2&amp;format=feed&amp;type=atom"/>
+	<entry>
+		<title>Differently to build bigger is better</title>
+		<link rel="alternate" type="text/html" href="https://builty.payo-themes.com/index.php/news/blog-detail?view=article&amp;id=7&amp;catid=2"/>
+		<published>2023-01-13T18:51:14+00:00</published>
+		<updated>2023-01-13T18:51:14+00:00</updated>
+		<id>https://builty.payo-themes.com/index.php/news/blog-detail?view=article&amp;id=7&amp;catid=2</id>
+		<author>
+			<name>Builty</name>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;https://builty.payo-themes.com//images/blog-img-3.jpg&quot; alt=&quot;&quot; width=&quot;400&quot; height=&quot;260&quot; loading=&quot;lazy&quot;&gt;&lt;/p&gt;&lt;p&gt;Through The Scrim Project, Construction is turning over the wrap on our construction fence to local BIPOC artists&lt;/p&gt;
+</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://builty.payo-themes.com//images/blog-img-3.jpg&quot; alt=&quot;&quot; width=&quot;400&quot; height=&quot;260&quot; loading=&quot;lazy&quot;&gt;&lt;/p&gt;&lt;p&gt;Through The Scrim Project, Construction is turning over the wrap on our construction fence to local BIPOC artists&lt;/p&gt;
+</content>
+		<category term="Uncategorised" />
+	</entry>
+	<entry>
+		<title>Most innovative build bigger</title>
+		<link rel="alternate" type="text/html" href="https://builty.payo-themes.com/index.php/news/blog-detail?view=article&amp;id=8&amp;catid=2"/>
+		<published>2023-01-13T18:51:14+00:00</published>
+		<updated>2023-01-13T18:51:14+00:00</updated>
+		<id>https://builty.payo-themes.com/index.php/news/blog-detail?view=article&amp;id=8&amp;catid=2</id>
+		<author>
+			<name>Builty</name>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;https://builty.payo-themes.com//images/blog-img-2.jpg&quot; alt=&quot;&quot; width=&quot;400&quot; height=&quot;260&quot; loading=&quot;lazy&quot;&gt;&lt;/p&gt;&lt;p&gt;Through The Scrim Project, Construction is turning over the wrap on our construction fence to local BIPOC artists&lt;/p&gt;
+</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://builty.payo-themes.com//images/blog-img-2.jpg&quot; alt=&quot;&quot; width=&quot;400&quot; height=&quot;260&quot; loading=&quot;lazy&quot;&gt;&lt;/p&gt;&lt;p&gt;Through The Scrim Project, Construction is turning over the wrap on our construction fence to local BIPOC artists&lt;/p&gt;
+</content>
+		<category term="Uncategorised" />
+	</entry>
+	<entry>
+		<title>Attention to changes in industry </title>
+		<link rel="alternate" type="text/html" href="https://builty.payo-themes.com/index.php/news/blog-detail?view=article&amp;id=9&amp;catid=2"/>
+		<published>2023-01-13T18:51:14+00:00</published>
+		<updated>2023-01-13T18:51:14+00:00</updated>
+		<id>https://builty.payo-themes.com/index.php/news/blog-detail?view=article&amp;id=9&amp;catid=2</id>
+		<author>
+			<name>Builty</name>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;https://builty.payo-themes.com//images/blog-img-1.jpg&quot; alt=&quot;&quot; width=&quot;400&quot; height=&quot;260&quot; loading=&quot;lazy&quot;&gt;&lt;/p&gt;&lt;p&gt;Through The Scrim Project, Construction is turning over the wrap on our construction fence to local BIPOC artists&lt;/p&gt;
+</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://builty.payo-themes.com//images/blog-img-1.jpg&quot; alt=&quot;&quot; width=&quot;400&quot; height=&quot;260&quot; loading=&quot;lazy&quot;&gt;&lt;/p&gt;&lt;p&gt;Through The Scrim Project, Construction is turning over the wrap on our construction fence to local BIPOC artists&lt;/p&gt;
+</content>
+		<category term="Uncategorised" />
+	</entry>
+</feed>
